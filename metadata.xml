@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>Stuurman Flink of de schipbreuk van „De Vrede”</dc:title>
+      <dc:creator>Frederick Marryat (1792–1848)</dc:creator>
+      <dc:creator>Johan Jacob Antonie Goeverneur (1809–1889)</dc:creator>
+      <dc:creator>Johan Braakensiek (1858–1940)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2014-01-26</dc:publisher>
+      <dc:date>2014-01-26</dc:date>
+      <dc:rights>Dit eBoek is voor kosteloos gebruik door iedereen overal, met vrijwel geen beperkingen van welke soort dan ook. U mag het kopiëren, weggeven of hergebruiken onder de voorwaarden van de Project Gutenberg Licentie bij dit eBoek of on-line op www.gutenberg.org.
+Dit eBoek is geproduceerd door het on-line gedistribueerd correctieteam op www.pgdp.net.
+De scans waarmee dit eBoek is gemaakt zijn beschikbaar op het Internet Archive (link).
+Dit boek is een vertaling van Masterman Ready: The Wreck of the “Pacific”.
+</dc:rights>
+      <dc:subject>Islands -- Fiction</dc:subject>
+      <dc:subject>Sea stories</dc:subject>
+      <dc:subject>Survival -- Fiction</dc:subject>
+      <dc:subject>Adventure stories</dc:subject>
+      <dc:subject>Shipwrecks -- Fiction</dc:subject>
+      <dc:identifier>pg:44758</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
